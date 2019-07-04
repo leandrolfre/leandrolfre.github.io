@@ -1,5 +1,5 @@
-|Geomertry Shader   |                   | Fresnel          |
-|:-----------------:|:-----------------:|:-----------------:
-|![](geometry.gif)  |                   |![](fresnel.gif)  |
+|Geomertry Shader   | Fresnel          |
+|:-----------------:|:----------------:|
+|![](geometry.gif)  |![](fresnel.gif)  |
 
 
